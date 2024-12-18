@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Bet It Bot",
+  "version": "1.0.3",
+  "description": "Update bet it scrapper",
+  "content_scripts": [
+    {
+      "js": [
+        "scripts/content.js"
+      ],
+      "matches": [
+        "https://www.bet365.it/*"
+      ]
+    }
+  ]
+}

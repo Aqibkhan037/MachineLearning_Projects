@@ -1,0 +1,103 @@
+.header
+  display: flex
+  align-items: center
+
+  .logo
+    height: 100px
+    margin-right: 30px
+
+.live
+  animation: live-color 2s infinite
+
+$color-live-1: #9a0e1c
+$color-live-2: #259a12
+@keyframes live-color
+  0%
+    color: $color-live-1
+  45%
+    color: $color-live-1
+  50%
+    color: $color-live-2
+  95%
+    color: $color-live-2
+  100%
+    color: $color-live-1
+
+.event
+  font-family: monospace
+  margin-right: 10px
+
+  i
+    opacity: 0
+
+
+span.yellow
+  color: #ffc905
+
+span.red
+  color: #ff57c6
+
+tr.odd
+  background: #2f3d29
+
+tr.bet
+  background: #462200
+
+tr.predict_2_2
+  //color: #ff5e5e
+  background-color: #6c0c06 !important
+
+tr.predict_3_3
+  background-color: #b95c23 !important
+//color: #ffc066
+.filter
+  border: 1px solid #eee
+  margin-bottom: 20px
+  min-height: 20px
+  padding: 20px
+  font-size: 18px
+  background: #207c6e
+  display: flex
+  align-items: center
+  background: url("/assets/images/goal3.jpg")
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: 50% 50%
+
+  .filter-content
+    flex: 100% 1
+
+  //.cell
+  //  align-self: stretch
+    .pic
+      //margin: -20px
+
+  input, select
+    font-size: 24px
+    outline: none
+    border-radius: 5px
+    border: none
+    padding: 5px
+    background: #fffe
+
+  button
+    outline: none
+    border: none
+    padding: 7px 14px
+    font-size: 16px
+    border-radius: 5px
+    background: #d3ff9e
+    color: #000000
+    cursor: pointer
+    box-shadow: 0 0 5px #0004
+
+  .btn-filter
+    background: #274226
+    color: #fff
+
+.live-btn
+  font-weight: bold
+
+.live-btn.filter_live
+  background: #9a0e1c !important
+  color: #ffffff !important

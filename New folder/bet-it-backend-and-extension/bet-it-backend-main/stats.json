@@ -1,0 +1,8272 @@
+{
+  "games": [
+    {
+      "_id": "76e49ef2114b63f6fc348a45f6c8e95c2923fe3f",
+      "title": "Qatar - Coppa Stars",
+      "teams": [
+        "Umm Salal",
+        "Al Shamal SC"
+      ],
+      "events": [
+        {
+          "time": 8,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 10,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 13,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 23,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 24,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 38,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 46,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 46,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 47,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 49,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 51,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 51,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 58,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 64,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 75,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 75,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 82,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 87,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 87,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5569,
+      "scores": [
+        2,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703694050,
+      "mod_time": 1703694050,
+      "live": true
+    },
+    {
+      "_id": "864212701989e4dc14be91a75209d9abc727e9e1",
+      "title": "India - Super League",
+      "teams": [
+        "Mohun Bagan SG",
+        "Kerala Blasters"
+      ],
+      "events": [
+        {
+          "time": 10,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 14,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 28,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 34,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 34,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 35,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 35,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 43,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 43,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 43,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 46,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 46,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 49,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 57,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 61,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 61,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 64,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 80,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 83,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 85,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 86,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 88,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5514,
+      "scores": [
+        0,
+        1
+      ],
+      "probabilities": [
+        126,
+        8,
+        1.083
+      ],
+      "handicap": [
+        1.5,
+        1.5
+      ],
+      "odds": [
+        5.5,
+        1.14
+      ],
+      "reg_time": 1703694045,
+      "mod_time": 1703694045,
+      "live": true
+    },
+    {
+      "_id": "8d519d01ac0473e972d5664fe5760ae4f1e67aa0",
+      "title": "Irlanda del Nord - IFA Championship",
+      "teams": [
+        "HW Welders",
+        "Dundela"
+      ],
+      "events": [
+        {
+          "time": 19,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 21,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 39,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 49,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 53,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 54,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 3738,
+      "scores": [
+        2,
+        0
+      ],
+      "probabilities": [
+        1.062,
+        10,
+        21
+      ],
+      "handicap": [
+        2.5,
+        2.5
+      ],
+      "odds": [
+        1.44,
+        2.62
+      ],
+      "reg_time": 1703694046,
+      "mod_time": 1703694046,
+      "live": true
+    },
+    {
+      "_id": "9245886e6de6f035e6cb4729e0877316aaecb03a",
+      "title": "Coppa del Togo",
+      "teams": [
+        "Dynamic Togolais",
+        "Gbohloesu"
+      ],
+      "events": [
+        {
+          "time": 6,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 7,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 9,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 14,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 16,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 21,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 39,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 43,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 43,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 54,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 55,
+          "team": 0,
+          "type": "GOAL"
+        }
+      ],
+      "time": 3623,
+      "scores": [
+        1,
+        0
+      ],
+      "probabilities": [
+        1.28,
+        4.33,
+        11
+      ],
+      "handicap": [
+        1.5,
+        1.5
+      ],
+      "odds": [
+        1.72,
+        2
+      ],
+      "reg_time": 1703694043,
+      "mod_time": 1703694043,
+      "live": true
+    },
+    {
+      "_id": "259b003907a39f14a40d669e828a85189298da9b",
+      "title": "Nigeria - Premier League",
+      "teams": [
+        "Sunshine Stars FC",
+        "Doma United"
+      ],
+      "events": [
+        {
+          "time": 4,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 15,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 20,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 24,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 27,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 27,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 34,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 34,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 36,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 36,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 38,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 39,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 47,
+          "team": 0,
+          "type": "GOAL"
+        }
+      ],
+      "time": 3614,
+      "scores": [
+        2,
+        0
+      ],
+      "probabilities": [
+        1.025,
+        17,
+        51
+      ],
+      "handicap": [
+        2.5,
+        2.5
+      ],
+      "odds": [
+        1.66,
+        2.1
+      ],
+      "reg_time": 1703694049,
+      "mod_time": 1703694049,
+      "live": true
+    },
+    {
+      "_id": "2361cb4a1aab6fbb50579d8d6b3a98002468396d",
+      "title": "Ghana - FA Cup",
+      "teams": [
+        "Dreams FC",
+        "Susubiribi Sporting Club"
+      ],
+      "events": [
+        {
+          "time": 3,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 9,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 13,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 14,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 20,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 20,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 26,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 32,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 36,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 37,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 42,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 43,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 57,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 3524,
+      "scores": [
+        1,
+        0
+      ],
+      "probabilities": [
+        1.083,
+        8,
+        21
+      ],
+      "handicap": [
+        1.5,
+        1.5
+      ],
+      "odds": [
+        1.57,
+        2.25
+      ],
+      "reg_time": 1703694044,
+      "mod_time": 1703694044,
+      "live": true
+    },
+    {
+      "_id": "84cb29957aee90baa0a06cac0a4afc29ce46da7b",
+      "title": "Mali - Première Division",
+      "teams": [
+        "Afrique Football Elite",
+        "USFAS Bamako"
+      ],
+      "events": [
+        {
+          "time": 6,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 9,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 14,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 16,
+          "team": 1,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 1969,
+      "scores": [
+        0,
+        0
+      ],
+      "probabilities": [
+        2.4,
+        2.37,
+        4
+      ],
+      "handicap": [
+        1.5,
+        1.5
+      ],
+      "odds": [
+        2.62,
+        1.44
+      ],
+      "reg_time": 1703694047,
+      "mod_time": 1703694047,
+      "live": true
+    },
+    {
+      "_id": "605204f60c54b2038ffce064a199bc786ebec3bb",
+      "title": "Mali - Première Division",
+      "teams": [
+        "ATS de Koro",
+        "USC Kita"
+      ],
+      "events": [
+        {
+          "time": 10,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 11,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 20,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 32,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 32,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 1915,
+      "scores": [
+        0,
+        0
+      ],
+      "probabilities": [
+        2.75,
+        2.4,
+        3.2
+      ],
+      "handicap": [
+        1.5,
+        1.5
+      ],
+      "odds": [
+        2.25,
+        1.57
+      ],
+      "reg_time": 1703694048,
+      "mod_time": 1703694048,
+      "live": true
+    },
+    {
+      "_id": "9cfad99ec7d0b7d81adf1780cbc417793c496aee",
+      "title": "Mali - Première Division",
+      "teams": [
+        "Club Olympique de Bamako",
+        "Onze Crèateurs"
+      ],
+      "events": [
+        {
+          "time": 12,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 15,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 21,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 30,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 30,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 1878,
+      "scores": [
+        0,
+        0
+      ],
+      "probabilities": [
+        3.1,
+        2.5,
+        2.75
+      ],
+      "handicap": [
+        1.5,
+        1.5
+      ],
+      "odds": [
+        2.2,
+        1.61
+      ],
+      "reg_time": 1703694048,
+      "mod_time": 1703694048,
+      "live": true
+    },
+    {
+      "_id": "0cd94165da737dc354d8cd1e65817c9e514cd31a",
+      "title": "Campionato d’Iraq",
+      "teams": [
+        "Al Kahrabaa",
+        "Al Quwa Al Jawiya"
+      ],
+      "events": [
+        {
+          "time": 4,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 9,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 16,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 19,
+          "team": 1,
+          "type": "GOAL"
+        }
+      ],
+      "time": 1263,
+      "scores": [
+        0,
+        1
+      ],
+      "probabilities": [
+        9.5,
+        5,
+        1.25
+      ],
+      "handicap": [
+        2.5,
+        2.5
+      ],
+      "odds": [
+        1.72,
+        2
+      ],
+      "reg_time": 1703694045,
+      "mod_time": 1703694045,
+      "live": true
+    },
+    {
+      "_id": "0aea347859070f8a39a39cf754595b07602a8bde",
+      "title": "Senegal - Premier League",
+      "teams": [
+        "AS Pikine",
+        "Casa Sport"
+      ],
+      "events": [],
+      "time": 0,
+      "scores": [
+        0,
+        0
+      ],
+      "probabilities": [
+        1.85,
+        2.9,
+        4.2
+      ],
+      "handicap": [
+        1.5,
+        1.5
+      ],
+      "odds": [
+        1.72,
+        2
+      ],
+      "reg_time": 1703694043,
+      "mod_time": 1703694043,
+      "live": true
+    },
+    {
+      "_id": "4da275b0d878ff7251e272536b819f82b3ab978b",
+      "title": "Coppa d'Israele",
+      "teams": [
+        "Beitar Nahariya",
+        "Maccabi Nujeidat Ahmed"
+      ],
+      "events": [
+        {
+          "time": 15,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 25,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 34,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 77,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 87,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 87,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 99,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 100,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 107,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 110,
+          "team": 1,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 7254,
+      "scores": [
+        1,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703619378,
+      "mod_time": 1703619378,
+      "live": false
+    },
+    {
+      "_id": "04a4e2508377dcc33159964d1a8dedbbda5d8f8e",
+      "title": "Giappone - Campionato Universitario Femminile",
+      "teams": [
+        "Università di Fukuoka femminile",
+        "Meiji IM University femminile"
+      ],
+      "events": [
+        {
+          "time": 12,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 18,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 20,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 27,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 43,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 6979,
+      "scores": [
+        1,
+        5
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703661143,
+      "mod_time": 1703661143,
+      "live": false
+    },
+    {
+      "_id": "4f071aee384ca55da54fc913e7b9656b027df5f0",
+      "title": "Tunisia - Lega 1",
+      "teams": [
+        "ES Metlaoui",
+        "US Monastir"
+      ],
+      "events": [
+        {
+          "time": 8,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 10,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 13,
+          "team": 0,
+          "type": "GOAL"
+        }
+      ],
+      "time": 6767,
+      "scores": [
+        0,
+        2
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703690018,
+      "mod_time": 1703690018,
+      "live": false
+    },
+    {
+      "_id": "0106e4bf72023f51b60bae752e0a064ca42fc875",
+      "title": "Tunisia - Lega 1",
+      "teams": [
+        "Esperance de Tunis",
+        "CS Sfaxien"
+      ],
+      "events": [
+        {
+          "time": 8,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 10,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 13,
+          "team": 0,
+          "type": "GOAL"
+        }
+      ],
+      "time": 6762,
+      "scores": [
+        1,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703690019,
+      "mod_time": 1703690019,
+      "live": false
+    },
+    {
+      "_id": "9928e0987940ebbee4a27c36abb89d8669bc2f9f",
+      "title": "Tunisia - Lega 2",
+      "teams": [
+        "AS Ariana",
+        "Jendouba Sport"
+      ],
+      "events": [
+        {
+          "time": 8,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 10,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 13,
+          "team": 0,
+          "type": "GOAL"
+        }
+      ],
+      "time": 6617,
+      "scores": [
+        1,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703690019,
+      "mod_time": 1703690019,
+      "live": false
+    },
+    {
+      "_id": "4b3d192b0797e7040b8f240199a578fa0507e03a",
+      "title": "Mali - Première Division",
+      "teams": [
+        "Stade Malien de Bamako",
+        "Black Star"
+      ],
+      "events": [
+        {
+          "time": 20,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 36,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 42,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 48,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 59,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 59,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 74,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 82,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 82,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "RED_CARD"
+        }
+      ],
+      "time": 6288,
+      "scores": [
+        0,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703613712,
+      "mod_time": 1703613712,
+      "live": false
+    },
+    {
+      "_id": "fb3de759400864f3afdef6fbb9a1afc6ecfecaa7",
+      "title": "India - Manipur State League",
+      "teams": [
+        "AIM",
+        "RAU FC"
+      ],
+      "events": [
+        {
+          "time": 9,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 11,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 23,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 23,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 23,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 33,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 36,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 39,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 44,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 47,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 58,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 62,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 62,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 70,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 71,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 78,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 86,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 88,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 6024,
+      "scores": [
+        1,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703671663,
+      "mod_time": 1703671663,
+      "live": false
+    },
+    {
+      "_id": "efeddb18328e19f8f8eba6791ee62426bdbe53d5",
+      "title": "Inghilterra - Premier League",
+      "teams": [
+        "Manchester United",
+        "Aston Villa"
+      ],
+      "events": [
+        {
+          "time": 9,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 12,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 17,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 17,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 21,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 26,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 26,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 37,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 50,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 58,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 61,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 61,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 62,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 69,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 71,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 73,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 74,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 77,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 78,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 80,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 81,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 81,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 82,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 86,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 86,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 87,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 89,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "UNKNOWN"
+        }
+      ],
+      "time": 5994,
+      "scores": [
+        3,
+        2
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703628090,
+      "mod_time": 1703628090,
+      "live": false
+    },
+    {
+      "_id": "466cf74ea386352d699c54e572cefd3a56706618",
+      "title": "Vietnam - V-League",
+      "teams": [
+        "Hai Phong",
+        "Binh Dinh"
+      ],
+      "events": [
+        {
+          "time": 5,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 28,
+          "team": 1,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 32,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 42,
+          "team": 0,
+          "type": "GOAL"
+        }
+      ],
+      "time": 5815,
+      "scores": [
+        0,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703686309,
+      "mod_time": 1703686309,
+      "live": false
+    },
+    {
+      "_id": "6b5a62d3f12dc2ef7b285666d003095c5612fd0f",
+      "title": "Inghilterra - Premier League",
+      "teams": [
+        "Burnley",
+        "Liverpool"
+      ],
+      "events": [
+        {
+          "time": 6,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 9,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 15,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 59,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 60,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 61,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 67,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 67,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 67,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 69,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 77,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 84,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 85,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 86,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 89,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "GOAL"
+        }
+      ],
+      "time": 5754,
+      "scores": [
+        0,
+        2
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703618726,
+      "mod_time": 1703618726,
+      "live": false
+    },
+    {
+      "_id": "64b55b693683819a7771cef7292a96a567f5a55b",
+      "title": "Costa d’Avorio - Premier Division",
+      "teams": [
+        "SOL FC Abobo",
+        "ASEC Mimosas"
+      ],
+      "events": [
+        {
+          "time": 22,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 28,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 59,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 60,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 70,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 74,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 74,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 81,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 81,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 81,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 87,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5699,
+      "scores": [
+        0,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703611729,
+      "mod_time": 1703611729,
+      "live": false
+    },
+    {
+      "_id": "d6789a8ed03b05abebec6f4a460f6abe7f75fc44",
+      "title": "Siria - 2ª Divisione",
+      "teams": [
+        "Al Kesswh",
+        "Jrmana"
+      ],
+      "events": [
+        {
+          "time": 14,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 15,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 23,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 24,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 24,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 39,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 39,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 40,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 48,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 54,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 54,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 61,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 63,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 68,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 74,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 82,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 89,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5642,
+      "scores": [
+        3,
+        2
+      ],
+      "probabilities": [
+        1.025,
+        17,
+        67
+      ],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703681618,
+      "mod_time": 1703681618,
+      "live": false
+    },
+    {
+      "_id": "b7a6f320f3c1386e5543399d73ee1ea75d5a2dc6",
+      "title": "Mali - Première Division",
+      "teams": [
+        "AS Police",
+        "FC Binga"
+      ],
+      "events": [
+        {
+          "time": 2,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 5,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 8,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 8,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 21,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 25,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 30,
+          "team": 1,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 48,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 48,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 60,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 67,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 79,
+          "team": 1,
+          "type": "UNKNOWN"
+        }
+      ],
+      "time": 5569,
+      "scores": [
+        0,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703612038,
+      "mod_time": 1703612038,
+      "live": false
+    },
+    {
+      "_id": "af1cef1074ac0c8724bfe409a8280d83aef47f6c",
+      "title": "Egitto - 1ª Divisione",
+      "teams": [
+        "ZED FC",
+        "El Daklyeh"
+      ],
+      "events": [
+        {
+          "time": 8,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 26,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 42,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 49,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 49,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 50,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 54,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 54,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 55,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 61,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 62,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 73,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 88,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 89,
+          "team": 1,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        3,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703693055,
+      "mod_time": 1703693055,
+      "live": false
+    },
+    {
+      "_id": "9ce5c2fd935920a0fbac6e2d66cb80471dc8f757",
+      "title": "Campionato d’Iraq",
+      "teams": [
+        "Al Zawra'a",
+        "Naft Al-Wasat"
+      ],
+      "events": [
+        {
+          "time": 4,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 16,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 29,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 37,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 38,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 41,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 52,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 52,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 67,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 70,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 73,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 73,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "GOAL"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        2,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703692764,
+      "mod_time": 1703692764,
+      "live": false
+    },
+    {
+      "_id": "67219e71ac646ee875862b3b9a7d1ccb2a128426",
+      "title": "Camerun - Elite One",
+      "teams": [
+        "Colombe du Dja et Lobo",
+        "FC Gazelle"
+      ],
+      "events": [
+        {
+          "time": 23,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 26,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 50,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 53,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 70,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 76,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 79,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 83,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703692451,
+      "mod_time": 1703692451,
+      "live": false
+    },
+    {
+      "_id": "d0693c1f5e44230c2f59df66d9124eb4414b5426",
+      "title": "Egitto - 2ª Divisione",
+      "teams": [
+        "Wadi Degla",
+        "Telecom Egypt"
+      ],
+      "events": [
+        {
+          "time": 3,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 12,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 25,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 39,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 40,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 64,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 70,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 71,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 71,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 84,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 85,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 85,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 88,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 88,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703688018,
+      "mod_time": 1703688018,
+      "live": false
+    },
+    {
+      "_id": "2f2f6b87ede620a7da3d9de2c46d171f1080dbb6",
+      "title": "Arabia Saudita - 1ª Divisione",
+      "teams": [
+        "Ohod Madinah",
+        "Al Qaisoma"
+      ],
+      "events": [
+        {
+          "time": 25,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 27,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 44,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 59,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 62,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 67,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 67,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 70,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 72,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 72,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 78,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 86,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703687877,
+      "mod_time": 1703687877,
+      "live": false
+    },
+    {
+      "_id": "1da704d964352a278e7906e9532cb57774253a66",
+      "title": "Egitto - 2ª Divisione",
+      "teams": [
+        "Proxy SC",
+        "Gomhoryet Shebin"
+      ],
+      "events": [
+        {
+          "time": 10,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 21,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 25,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 28,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 28,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 35,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 44,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 46,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 46,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 47,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 64,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 74,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 76,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 78,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 81,
+          "team": 0,
+          "type": "GOAL"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        3,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703687828,
+      "mod_time": 1703687828,
+      "live": false
+    },
+    {
+      "_id": "a326c23fba1d7a21f43ccf6abc08a568dcdc3740",
+      "title": "Egitto - 2ª Divisione",
+      "teams": [
+        "El Seka El Hadid",
+        "Ghazl El Mahallah"
+      ],
+      "events": [
+        {
+          "time": 6,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 7,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 7,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 7,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 19,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 24,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 29,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 40,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 40,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 42,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 49,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 51,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 61,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 63,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 72,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 77,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 88,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703687668,
+      "mod_time": 1703687668,
+      "live": false
+    },
+    {
+      "_id": "0d62c0aed77cc7757a7ee5759339512e2721e5f7",
+      "title": "Egitto - 2ª Divisione",
+      "teams": [
+        "Tanta",
+        "Makadi FC"
+      ],
+      "events": [
+        {
+          "time": 14,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 17,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 20,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 38,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 39,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 49,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 50,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 53,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 55,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 55,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 65,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 67,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 67,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 76,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 77,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 85,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 89,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        2,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703687597,
+      "mod_time": 1703687597,
+      "live": false
+    },
+    {
+      "_id": "b518da71856083df2ed2947d486b668d6b2093be",
+      "title": "Egitto - 2ª Divisione",
+      "teams": [
+        "La Viena FC",
+        "Asyut Petroleum"
+      ],
+      "events": [
+        {
+          "time": 1,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 8,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 12,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 16,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 24,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 24,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 43,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 52,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 52,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 82,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703687524,
+      "mod_time": 1703687524,
+      "live": false
+    },
+    {
+      "_id": "d706cc12b127af384bc5bb8ec0e9d23fb7840fc6",
+      "title": "Egitto - 2ª Divisione",
+      "teams": [
+        "Petrojet",
+        "Dikernis SC"
+      ],
+      "events": [
+        {
+          "time": 7,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 25,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 39,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 46,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 61,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 61,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 63,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 65,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 71,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 73,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 73,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 76,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        3,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703687466,
+      "mod_time": 1703687466,
+      "live": false
+    },
+    {
+      "_id": "d3994bc9d19155976440ccfb1152cb929ab6cb4a",
+      "title": "Arabia Saudita - 1ª Divisione",
+      "teams": [
+        "Al Orubah",
+        "Al-Bukayriyah FC"
+      ],
+      "events": [
+        {
+          "time": 5,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 28,
+          "team": 1,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 32,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 42,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 62,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 62,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703687109,
+      "mod_time": 1703687109,
+      "live": false
+    },
+    {
+      "_id": "859f208cf961fc34451cfc88fe22dabb0ba4b5ac",
+      "title": "Arabia Saudita - 1ª Divisione",
+      "teams": [
+        "Al Taraji",
+        "Al-Arabi Al-Saudi"
+      ],
+      "events": [
+        {
+          "time": 9,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 30,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 38,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 44,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 53,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        0,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703685699,
+      "mod_time": 1703685699,
+      "live": false
+    },
+    {
+      "_id": "eff3b2b9a1ac0c82661117f35ce13f2f131b6493",
+      "title": "Thailandia - 2ª Divisione",
+      "teams": [
+        "Lampang FC",
+        "Krabi FC"
+      ],
+      "events": [
+        {
+          "time": 4,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 7,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 21,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 37,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 55,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 61,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 62,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 67,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 70,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 72,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 77,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 80,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 82,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 82,
+          "team": 1,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703683759,
+      "mod_time": 1703683759,
+      "live": false
+    },
+    {
+      "_id": "05611fadefc08ba3b98b0a6d6b2583c11137c81c",
+      "title": "Siria - 2ª Divisione",
+      "teams": [
+        "Al-Nabek",
+        "Al Yaqdhah"
+      ],
+      "events": [
+        {
+          "time": 6,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 21,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 25,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 32,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 36,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 37,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 86,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        2,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703683410,
+      "mod_time": 1703683410,
+      "live": false
+    },
+    {
+      "_id": "bdac9951945a99a10d36d5d0c1b4b1971ce59ada",
+      "title": "Coppa d’Iran",
+      "teams": [
+        "Saipa Karadj",
+        "Ayandeh Sazan Ardabil"
+      ],
+      "events": [
+        {
+          "time": 4,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 24,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 38,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 62,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 62,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 79,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 85,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 89,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "GOAL"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        3,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703682143,
+      "mod_time": 1703682143,
+      "live": false
+    },
+    {
+      "_id": "444c4f4c9f3101946ed653783eaafb1f6b90743d",
+      "title": "Siria - 2ª Divisione",
+      "teams": [
+        "Al Majd",
+        "Moadameet Al-Sham"
+      ],
+      "events": [
+        {
+          "time": 4,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 24,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 38,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 62,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 62,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 79,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 85,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        4,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703681775,
+      "mod_time": 1703681775,
+      "live": false
+    },
+    {
+      "_id": "d18743230752f5e633a59383ee745f905729b036",
+      "title": "Vietnam - V-League",
+      "teams": [
+        "Nam Dinh",
+        "Viettel FC"
+      ],
+      "events": [
+        {
+          "time": 11,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 15,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 22,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 30,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 37,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 43,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 48,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 64,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 77,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 78,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 78,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 83,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        3,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703681698,
+      "mod_time": 1703681698,
+      "live": false
+    },
+    {
+      "_id": "a60bc9052848cfd906ea22e8e3df12df6e18b31c",
+      "title": "Turchia - Campionato U19",
+      "teams": [
+        "Bandirmaspor U19",
+        "Bursaspor U19"
+      ],
+      "events": [
+        {
+          "time": 13,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 19,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 33,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 33,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 33,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 39,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 42,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 42,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 55,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 61,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 63,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 63,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 64,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 68,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 68,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 72,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 81,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 84,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 87,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 88,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 89,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 89,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703678457,
+      "mod_time": 1703678457,
+      "live": false
+    },
+    {
+      "_id": "2809b8b0e1f2d88d5c9b46ce8e292c6d4a6f9dcd",
+      "title": "Vietnam - V-League",
+      "teams": [
+        "Hoang Anh Gia Lai",
+        "Ha Noi FC"
+      ],
+      "events": [
+        {
+          "time": 3,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 12,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 20,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 21,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 25,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 34,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 38,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 42,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 70,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 76,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 78,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 84,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 84,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 85,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 88,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 88,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 89,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "RED_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        2,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703678151,
+      "mod_time": 1703678151,
+      "live": false
+    },
+    {
+      "_id": "b14bd5dce70f404ba32d7e6819e8341eda7b94d7",
+      "title": "Vietnam - V-League",
+      "teams": [
+        "Quang Nam",
+        "Thanh Hoa"
+      ],
+      "events": [
+        {
+          "time": 7,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 27,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 30,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 34,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 37,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 49,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 49,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 58,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 58,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 60,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 71,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 76,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        0,
+        2
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703677988,
+      "mod_time": 1703677988,
+      "live": false
+    },
+    {
+      "_id": "bc7af711243aa4110e324c8c6a9ea05cd7ecbfb7",
+      "title": "Turchia - Campionato U19",
+      "teams": [
+        "Eskisehirspor U19",
+        "Denizlispor U19"
+      ],
+      "events": [
+        {
+          "time": 2,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 7,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 19,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 25,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 29,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 31,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 35,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 37,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 41,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 42,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 44,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 55,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 56,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 63,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 78,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 80,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 85,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 85,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        3,
+        2
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703675391,
+      "mod_time": 1703675391,
+      "live": false
+    },
+    {
+      "_id": "f6a9c9a9f4b6d25f3507b01ad7c8131ec162e22c",
+      "title": "Turchia - Campionato U19",
+      "teams": [
+        "Sakaryaspor U19",
+        "Bodrumspor U19"
+      ],
+      "events": [
+        {
+          "time": 5,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 6,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 10,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 11,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 47,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 49,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 60,
+          "team": 1,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 62,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 69,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 73,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 73,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 78,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 82,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 82,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703675196,
+      "mod_time": 1703675196,
+      "live": false
+    },
+    {
+      "_id": "1652a52c84c63693ca3ad311b5b4eaeae88f2c03",
+      "title": "Turchia - Campionato U19",
+      "teams": [
+        "Fatih Karagumruk U19",
+        "Bayrampasa U19"
+      ],
+      "events": [
+        {
+          "time": 4,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 14,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 20,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 27,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 32,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 39,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 43,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 49,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 51,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 52,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 53,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 55,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 55,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 57,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 67,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 75,
+          "team": 1,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 75,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        2,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703674888,
+      "mod_time": 1703674888,
+      "live": false
+    },
+    {
+      "_id": "b0e431b4c31397b34f9737a1ce4400ba02c5adca",
+      "title": "Turchia - Campionato U19",
+      "teams": [
+        "Adanaspor U19",
+        "Goztepe U19"
+      ],
+      "events": [
+        {
+          "time": 35,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 36,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 37,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 40,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 44,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 53,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 53,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 53,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 55,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 61,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 62,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 73,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 74,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 74,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 74,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 77,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 78,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 80,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 86,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 86,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 88,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 88,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        2,
+        3
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703674822,
+      "mod_time": 1703674822,
+      "live": false
+    },
+    {
+      "_id": "02a715f3cb1d495ce4da4f97800100a5e8eac52b",
+      "title": "Turchia - Campionato U19",
+      "teams": [
+        "Keciorengucu U19",
+        "Umraniyespor U19"
+      ],
+      "events": [
+        {
+          "time": 17,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 37,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 38,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 50,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 51,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 51,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 60,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 65,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 68,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 79,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 80,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 82,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703674814,
+      "mod_time": 1703674814,
+      "live": false
+    },
+    {
+      "_id": "1b32903e6f39a3f598bcccbef143d8f68e3d28e6",
+      "title": "India - Delhi Premier League",
+      "teams": [
+        "Vatika FC",
+        "Delhi FC XI"
+      ],
+      "events": [
+        {
+          "time": 9,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 12,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 25,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 43,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 44,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 44,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 47,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 47,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 72,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 78,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        2,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703674756,
+      "mod_time": 1703674756,
+      "live": false
+    },
+    {
+      "_id": "6fc49d08890e25e199494149940c76fcadf3d154",
+      "title": "Turchia - Campionato U19",
+      "teams": [
+        "Manisa FK U19",
+        "Genclerbirligi U19"
+      ],
+      "events": [
+        {
+          "time": 11,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 13,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 14,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 23,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 30,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 54,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 54,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 55,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 59,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 60,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 60,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 62,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 86,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 86,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 89,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        0,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703674514,
+      "mod_time": 1703674514,
+      "live": false
+    },
+    {
+      "_id": "3f611b57aaa957d8b81c8a7d7e8673a4b3fdd634",
+      "title": "Turchia - Campionato U19",
+      "teams": [
+        "Pendikspor U19",
+        "Altay U19"
+      ],
+      "events": [
+        {
+          "time": 3,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 9,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 25,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 26,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 34,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 47,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 47,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 54,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 57,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 58,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 58,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 59,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 59,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 59,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 64,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 78,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 81,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 86,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 87,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 87,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 88,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        3,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703674472,
+      "mod_time": 1703674472,
+      "live": false
+    },
+    {
+      "_id": "5f2bd11782acff6caf20585b308c0302c3f010e8",
+      "title": "Indonesia - Liga 3",
+      "teams": [
+        "PSDB Demak",
+        "UNSA FC"
+      ],
+      "events": [
+        {
+          "time": 6,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 7,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 11,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 13,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 15,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 23,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 24,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 27,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 35,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 36,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 36,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 44,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 48,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 70,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 73,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 74,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 80,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 86,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 88,
+          "team": 0,
+          "type": "GOAL"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        3,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703671901,
+      "mod_time": 1703671901,
+      "live": false
+    },
+    {
+      "_id": "f4d97028fb118517fad229e2cc3fd379ff6a89d0",
+      "title": "Indonesia - Liga 3",
+      "teams": [
+        "ACN Muara Badak",
+        "Persisam United"
+      ],
+      "events": [
+        {
+          "time": 12,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 19,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 21,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 21,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 42,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 44,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 47,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 49,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 50,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 50,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 51,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 55,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 63,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 72,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 73,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 73,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 78,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 83,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        7,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703670958,
+      "mod_time": 1703670958,
+      "live": false
+    },
+    {
+      "_id": "49ebfdf739567f3aaeb146d8972123540c581c03",
+      "title": "Indonesia - Liga 3",
+      "teams": [
+        "Perselan Sanga-Sanga",
+        "Harbi Putra"
+      ],
+      "events": [
+        {
+          "time": 12,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 36,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 37,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 66,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 72,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 76,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 84,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 85,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 89,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        5
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703670270,
+      "mod_time": 1703670270,
+      "live": false
+    },
+    {
+      "_id": "06ec09371c4cacd7cdb5c78e7362aabbec101e39",
+      "title": "India - Delhi Premier League",
+      "teams": [
+        "Friends United",
+        "Rangers SC"
+      ],
+      "events": [
+        {
+          "time": 12,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 22,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 27,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 33,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 38,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 38,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 46,
+          "team": 1,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 74,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 74,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 74,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 86,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        0,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703664745,
+      "mod_time": 1703664745,
+      "live": false
+    },
+    {
+      "_id": "fa87f89b5c75517463af0df9fe315aa9bb5ba32f",
+      "title": "Indonesia - Liga 3",
+      "teams": [
+        "Persikutim Kutai Timur",
+        "Persikubar Putra"
+      ],
+      "events": [
+        {
+          "time": 9,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 10,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 21,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 22,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 25,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 25,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 25,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 26,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 28,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 28,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 33,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 39,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 39,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 64,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 69,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 75,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 75,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 81,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 85,
+          "team": 1,
+          "type": "GOAL"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        2
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703663748,
+      "mod_time": 1703663748,
+      "live": false
+    },
+    {
+      "_id": "61e4a44feed2fa38b210bab146aa83acad488859",
+      "title": "India - Manipur State League",
+      "teams": [
+        "Ssu Singjamei",
+        "Wangoi FA"
+      ],
+      "events": [
+        {
+          "time": 9,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 72,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 79,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        0,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703663403,
+      "mod_time": 1703663403,
+      "live": false
+    },
+    {
+      "_id": "702dd1349301cdae0b3a6898d0998585a5878fc3",
+      "title": "Indonesia - Liga 3",
+      "teams": [
+        "IP Gelora Pantai",
+        "Balikpapan United"
+      ],
+      "events": [
+        {
+          "time": 12,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 18,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 20,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 27,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 43,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 46,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 50,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 54,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 61,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 64,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 72,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 72,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 84,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        5
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703663299,
+      "mod_time": 1703663299,
+      "live": false
+    },
+    {
+      "_id": "14860d056d7235e8ee10b675e5db9f121dad0c1a",
+      "title": "Inghilterra - Championship",
+      "teams": [
+        "Ipswich",
+        "Leicester"
+      ],
+      "events": [
+        {
+          "time": 4,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 5,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 10,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 15,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 15,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 22,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 24,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 33,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 35,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 39,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 43,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 43,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 43,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 47,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 53,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 56,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 58,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 61,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 62,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 70,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 70,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 79,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 80,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 82,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 83,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 87,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703627114,
+      "mod_time": 1703627114,
+      "live": false
+    },
+    {
+      "_id": "eca8f7fd7dcbe48e4913b842756fa866ed9ed27a",
+      "title": "Belgio - Prima divisione A",
+      "teams": [
+        "Club Bruges",
+        "Union Saint Gilloise"
+      ],
+      "events": [
+        {
+          "time": 3,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 7,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 14,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 14,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 21,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 27,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 34,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 51,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 66,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 69,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 70,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 75,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 77,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 77,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 82,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 84,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 86,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 87,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 89,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 91,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 94,
+          "team": 1,
+          "type": "UNKNOWN"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703627063,
+      "mod_time": 1703627063,
+      "live": false
+    },
+    {
+      "_id": "f3c23a76916fb9ddfaad242addb38d7223741c7e",
+      "title": "Italia - Serie B",
+      "teams": [
+        "Sampdoria",
+        "Bari"
+      ],
+      "events": [
+        {
+          "time": 8,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 19,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 48,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 48,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 48,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 54,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 60,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 64,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 69,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 69,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 72,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 74,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 74,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 74,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 75,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 77,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 79,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 83,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 87,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 89,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "GOAL"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703626040,
+      "mod_time": 1703626040,
+      "live": false
+    },
+    {
+      "_id": "f0dc8d6615fe10112d790940cd6c73283c2caa04",
+      "title": "Brasile - Campionato U20",
+      "teams": [
+        "Paysandu U20",
+        "Castanhal EC U20"
+      ],
+      "events": [
+        {
+          "time": 8,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 14,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 19,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 20,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 20,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 26,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 33,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 33,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 38,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 44,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 44,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 47,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 53,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 60,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 67,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 70,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 70,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 72,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        0,
+        0
+      ],
+      "probabilities": [
+        null,
+        null
+      ],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703622128,
+      "mod_time": 1703622128,
+      "live": false
+    },
+    {
+      "_id": "70ea0baa07317bd56e967e36f616aaaac9456a8e",
+      "title": "Arabia Saudita - Pro League",
+      "teams": [
+        "Al Ittihad Jeddah",
+        "Al-Nassr Riyadh"
+      ],
+      "events": [
+        {
+          "time": 6,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 8,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 10,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 11,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 13,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 14,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 19,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 25,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 28,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 30,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 31,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 38,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 40,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 42,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 47,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 47,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 47,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 51,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 53,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 53,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 53,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 59,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 60,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 64,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 67,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 67,
+          "team": 0,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 68,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 69,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 70,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 70,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 75,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 80,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 82,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 86,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 86,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 87,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 88,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 88,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "UNKNOWN"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        2,
+        5
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703621573,
+      "mod_time": 1703621573,
+      "live": false
+    },
+    {
+      "_id": "c58e8451085919fcdb5d5b6c50d79bdbdd379fdc",
+      "title": "Israele - Premier League",
+      "teams": [
+        "Hapoel Beer Sheva",
+        "Hapoel Haifa"
+      ],
+      "events": [
+        {
+          "time": 3,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 7,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 12,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 15,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 20,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 20,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 23,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 49,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 53,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 55,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 57,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 63,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 63,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 70,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 78,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 85,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "GOAL"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        4,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703620330,
+      "mod_time": 1703620330,
+      "live": false
+    },
+    {
+      "_id": "e811f1f47c2b87e730c5523732580f7c47e1fd61",
+      "title": "Israele - Premier League",
+      "teams": [
+        "Hapoel Jerusalem",
+        "Hapoel Tel-Aviv"
+      ],
+      "events": [
+        {
+          "time": 3,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 7,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 8,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 8,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 11,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 11,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 18,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 18,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 30,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 50,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 67,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 69,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 73,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        2,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703619699,
+      "mod_time": 1703619699,
+      "live": false
+    },
+    {
+      "_id": "8b642df77736be42efc6c4ee6d54760db221a3bb",
+      "title": "Belgio - Prima divisione A",
+      "teams": [
+        "Westerlo",
+        "RWD Molenbeek"
+      ],
+      "events": [
+        {
+          "time": 14,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 19,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 24,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 46,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 50,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 50,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 59,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 64,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 70,
+          "team": 1,
+          "type": "RED_CARD"
+        },
+        {
+          "time": 75,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 75,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 81,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 81,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 82,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 86,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 87,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 87,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 91,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 93,
+          "team": 0,
+          "type": "UNKNOWN"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        3,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703618901,
+      "mod_time": 1703618901,
+      "live": false
+    },
+    {
+      "_id": "48de527eac5ecfae2cfdf2009e0efab13eda78b9",
+      "title": "Galles - Championship South",
+      "teams": [
+        "Trefelin BGC",
+        "Afan Lido"
+      ],
+      "events": [
+        {
+          "time": 10,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 29,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 30,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 38,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 47,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 53,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 60,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 65,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 65,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 65,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 70,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 71,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 80,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 86,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 89,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 89,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 89,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        2,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703618620,
+      "mod_time": 1703618620,
+      "live": false
+    },
+    {
+      "_id": "7ea4279d21fb6295e7041dacef34318ba12fcc56",
+      "title": "Inghilterra - Championship",
+      "teams": [
+        "Birmingham",
+        "Stoke"
+      ],
+      "events": [
+        {
+          "time": 10,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 12,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 12,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 15,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 26,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 27,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 29,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 31,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 33,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 34,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 35,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 39,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 43,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 43,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 49,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 51,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 53,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 57,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 57,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 60,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 60,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 67,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 69,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 70,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 70,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 77,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 77,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 77,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 79,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 80,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 83,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 86,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 87,
+          "team": 0,
+          "type": "UNKNOWN"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        3
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703618051,
+      "mod_time": 1703618051,
+      "live": false
+    },
+    {
+      "_id": "a94fef1350b013c1e6e9976cb30d7d6f19d273b1",
+      "title": "Marocco - GNF 1",
+      "teams": [
+        "HUSA Agadir",
+        "WAC Casablanca"
+      ],
+      "events": [
+        {
+          "time": 7,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 15,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 20,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 20,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 36,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 37,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 37,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 38,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 68,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 69,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        0,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703617560,
+      "mod_time": 1703617560,
+      "live": false
+    },
+    {
+      "_id": "93dc5c0d74d2b7d3a2c12a9f68decd85afc96712",
+      "title": "Italia - Serie B",
+      "teams": [
+        "Palermo",
+        "Cremonese"
+      ],
+      "events": [
+        {
+          "time": 7,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 7,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 9,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 11,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 13,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 17,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 19,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 19,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 20,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 20,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 24,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 28,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 32,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 38,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 38,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 39,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 41,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 46,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 50,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 50,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 52,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 54,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 59,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 59,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 62,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 62,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 67,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 69,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 72,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 82,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 82,
+          "team": 0,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 84,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 89,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 89,
+          "team": 1,
+          "type": "UNKNOWN"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        3,
+        2
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703617338,
+      "mod_time": 1703617338,
+      "live": false
+    },
+    {
+      "_id": "2887943ff2a8e8532dcb00714a516fb051e30c1b",
+      "title": "Egitto - 1ª Divisione",
+      "teams": [
+        "Al Ittihad Al Sakandary",
+        "Pharco FC"
+      ],
+      "events": [
+        {
+          "time": 14,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 23,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 32,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 35,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 40,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 43,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 51,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 54,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 54,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 56,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 63,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 63,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 73,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 81,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 84,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        3,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703617050,
+      "mod_time": 1703617050,
+      "live": false
+    },
+    {
+      "_id": "00553bded82c9e24583d3329abe9d86e8127e2bc",
+      "title": "Israele - Premier League",
+      "teams": [
+        "Maccabi Netanya",
+        "MS Ashdod"
+      ],
+      "events": [
+        {
+          "time": 8,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 11,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 34,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 39,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 63,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 63,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 64,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 83,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 84,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 87,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 87,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703616933,
+      "mod_time": 1703616933,
+      "live": false
+    },
+    {
+      "_id": "68ae3f87202b50b5f0d9e6807211dcd10a162d7f",
+      "title": "Gibuti - Premier League",
+      "teams": [
+        "AS Arta Solar 7",
+        "CF Gendarmerie Nationale"
+      ],
+      "events": [
+        {
+          "time": 4,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 9,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 14,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 19,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 23,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 26,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 33,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 44,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 45,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 56,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 70,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 77,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 80,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 86,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 86,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "CORNER_KICK"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        6,
+        2
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703615554,
+      "mod_time": 1703615554,
+      "live": false
+    },
+    {
+      "_id": "5a782142f9191b0900e506b30be32c2b37c45b58",
+      "title": "Senegal - Ligue 2",
+      "teams": [
+        "ASC HLM",
+        "Ajel de Rufisque"
+      ],
+      "events": [
+        {
+          "time": 5,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 26,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 30,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 33,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 36,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 37,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 37,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 41,
+          "team": 1,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 45,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 53,
+          "team": 1,
+          "type": "GOAL"
+        },
+        {
+          "time": 66,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 68,
+          "team": 0,
+          "type": "GOAL"
+        },
+        {
+          "time": 90,
+          "team": 0,
+          "type": "YELLOW_CARD"
+        },
+        {
+          "time": 90,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        1
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703615216,
+      "mod_time": 1703615216,
+      "live": false
+    },
+    {
+      "_id": "92f81baae48c7865e0c3fc5e24684d6ab7652f02",
+      "title": "Mali - Première Division",
+      "teams": [
+        "Djoliba AC",
+        "AS Korofina"
+      ],
+      "events": [
+        {
+          "time": 15,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 25,
+          "team": 0,
+          "type": "CORNER_KICK"
+        },
+        {
+          "time": 29,
+          "team": 1,
+          "type": "YELLOW_CARD"
+        }
+      ],
+      "time": 5400,
+      "scores": [
+        1,
+        0
+      ],
+      "probabilities": [],
+      "handicap": [],
+      "odds": [],
+      "reg_time": 1703612063,
+      "mod_time": 1703612063,
+      "live": false
+    },
+    {
+      "_id": "adbef9d23b892139cfe15e877c8043e9c0410853",
+      "title": "India - Kerala Premier League",
+      "teams": [
+        "Luca SFC",
+        "Kerala United"
+      ],
+      "events": [],
+      "time": 0,
+      "scores": [
+        0,
+        0
+      ],
+      "probabilities": [
+        4,
+        3.2,
+        1.8
+      ],
+      "handicap": [
+        2.5,
+        2.5
+      ],
+      "odds": [
+        1.61,
+        2.2
+      ],
+      "reg_time": 1703683733,
+      "mod_time": 1703683733,
+      "live": false
+    },
+    {
+      "_id": "0bd072bc76704f0675175a04a49c4313a56cd471",
+      "title": "Brasile - Campionato U20",
+      "teams": [
+        "Tuna Luso U20",
+        "Carajas EC U20"
+      ],
+      "events": [],
+      "time": 0,
+      "scores": [
+        0,
+        0
+      ],
+      "probabilities": [
+        2.1,
+        3.3,
+        3
+      ],
+      "handicap": [
+        2.5,
+        2.5
+      ],
+      "odds": [
+        1.72,
+        2
+      ],
+      "reg_time": 1703613249,
+      "mod_time": 1703613249,
+      "live": false
+    }
+  ],
+  "timestamp": 1703694050
+}

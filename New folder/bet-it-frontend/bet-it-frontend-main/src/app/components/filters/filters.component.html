@@ -1,0 +1,67 @@
+<h1 class="tagline"> Over<span class="ss">4</span>Fun - Update Filter</h1>
+<div class="filter">
+  <button (click)="addFilter()">Add Filter</button>
+  <button (click)="saveChanges()">Save Changes</button>
+  <button routerLink="/">Dashboard</button>
+</div>
+<div *ngFor="let filter of filters" class="filter">
+  <h2>Filter: {{ filter.name || "New Filter" }}</h2>
+  <hr>
+  <br>
+  <div class="toggle-container">
+    <mat-slide-toggle [(ngModel)]="filter.enabled">
+      <h2>Status: {{ filter.enabled ? 'Enabled' : 'Disabled' }}</h2>
+    </mat-slide-toggle>
+  </div>
+  <p>
+    <mat-form-field>
+      <mat-label>Filter Name</mat-label>
+      <input matInput [(ngModel)]="filter.name">
+    </mat-form-field>
+  </p>
+  <div class="row">
+    <div class="col" *ngFor="let i of [0,1]" style="flex: 50%">
+      <mat-form-field>
+        <mat-label>Score (App) {{ i + 1 }}</mat-label>
+        <mat-select [(ngModel)]="filter.score[i]" (ngModelChange)="updateGoalCount(filter)">
+          <mat-option *ngFor="let v of [0,1,2,3,4,5,6,7,8,9]" [value]="v">{{ v }}</mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col" *ngFor="let i of [0,1]" style="flex: 50%">
+      <mat-form-field>
+        <mat-label>Score (Excel) {{ i + 1 }}</mat-label>
+        <mat-select [(ngModel)]="filter.scorex[i]" (ngModelChange)="updateGoalCount(filter)">
+          <mat-option *ngFor="let v of [0,1,2,3,4,5,6,7,8,9]" [value]="v">{{ v }}</mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+  </div>
+  <table *ngIf="filter.score[0]+filter.score[1]">
+    <tr>
+      <th>Goal Number</th>
+      <th>Time From</th>
+      <th>Time To</th>
+      <th>Difference</th>
+    </tr>
+    <ng-container *ngFor="let g of filter.goals">
+      <tr>
+        <td>{{ g.goal + 1 }}</td>
+        <td><input [(ngModel)]="g.start_time" type="number" min="0" max="110"></td>
+        <td><input [(ngModel)]="g.end_time" type="number" min="0" max="110"></td>
+        <td><input [(ngModel)]="g.differance" *ngIf="g.goal" type="number" min="0" max="110"></td>
+      </tr>
+    </ng-container>
+  </table>
+  <br>
+  <br>
+  <div class="toggle-container">
+    <span class="text">Color: </span>
+    <div class="color-picker">
+      <span class="color-circle" *ngFor="let c of colors; let i = index" [style.background-color]="c" [class.selected]="filter.color == i" (click)="filter.color = i"></span>
+    </div>
+    <button (click)="deleteFilter(filter)">Delete</button>
+  </div>
+</div>

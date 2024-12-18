@@ -1,0 +1,8 @@
+train: C:/An_Extra_drive/Python Project/TrashnetProject-1/test/images
+
+val:  C:/An_Extra_drive/Python Project/TrashnetProject-1/valid/images
+test: C:/An_Extra_drive/Python Project/TrashnetProject-1/test/images
+
+
+nc: 6  # number of classes
+names: ['cardboard', 'glass-metal-cardboard-paper', 'metal', 'paper', 'plastic', 'trash']

@@ -1,0 +1,90 @@
+<div class="header">
+  <div class="cell">
+    <img class="logo" src="assets/images/logo.png">
+  </div>
+  <div class="cell">
+    <h1 class="tagline"> Over<span class="ss">4</span>Fun - Dashboard</h1>
+    <pre><span class="live">⬤</span> UPDATED ON: {{ (data?.timestamp || 0) * 1000 | date: "YYYY-MM-dd HH:mm:ss" }}</pre>
+  </div>
+</div>
+<br>
+<div class="filter">
+  <div class="filter-content">
+    <div>
+      <span>&nbsp;<button class="live-btn" [class.filter_live]="filterLive" (click)="toggleLive()">LIVE</button></span>
+      <span style="display: inline-block; width: 40px"></span>
+      <span class="inp">Time: <input [(ngModel)]="time" type="number" min="3" max="100"></span>
+      <span style="display: inline-block; width: 40px"></span>
+      <span class="inp">Goal: <input [(ngModel)]="goal1" type="number" min="0" max="15"></span>
+      <span class="inp"> - <input [(ngModel)]="goal2" type="number" min="0" max="15"></span>
+      <ng-container *ngIf="isAdmin">
+        <br>
+        <br>
+        <span>Download Excel:</span>
+        <span>&nbsp;<button (click)="xls('today')">Today</button></span>
+        <span>&nbsp;<button (click)="xls('yesterday')">Yesterday</button></span>
+        <span>&nbsp;<button (click)="xls('this_week')">This Week</button></span>
+        <span>&nbsp;<button (click)="xls('last_week')">Last Week</button></span>
+        <span>&nbsp;<button (click)="xls('all')">All Time</button></span>
+        <br>
+        <br>
+        <span>&nbsp;<button routerLink="/filters" class="btn-filter">Update Filters</button></span>
+      </ng-container>
+    </div>
+  </div>
+  <div class="cell">
+    <!--    <img class="pic" src="assets/images/goal3.jpg">-->
+  </div>
+</div>
+<table id="tbl">
+  <thead>
+  <tr>
+    <th rowspan="2">Date</th>
+    <th rowspan="2">Duration</th>
+    <th rowspan="2">Game</th>
+    <th rowspan="2">Teams</th>
+    <th rowspan="2">Score</th>
+    <th rowspan="2">Goals</th>
+    <th rowspan="2">Cards</th>
+  </tr>
+  </thead>
+  <tbody>
+  <ng-container *ngFor="let r of data?.games; let i = index">
+    <tr class="team-1" [style.background-color]="r.color" [class.odd]="i%2" *ngIf="!filterLive || r.live">
+      <td rowspan="2">{{ r.live ? "LIVE" : (r.mod_time * 1e3| date: 'YYYY-MM-dd') }}</td>
+      <td rowspan="2">{{ timeToStr(r.time) }}</td>
+      <td rowspan="2">{{ r.title }}</td>
+      <td style="border-bottom: none">{{ r.teams[0] }}</td>
+      <td class="rtl" style="border-bottom: none">{{ r.scores[0] }}</td>
+      <td>
+        <ng-container *ngFor="let e of r.events"><span class="event" *ngIf="(e.type === 'GOAL') && !e.team">{{ e.time | number: '2.0' }}<i>,</i></span></ng-container>
+      </td>
+      <td>
+        <ng-container *ngFor="let e of r.events">
+          <span class="event" *ngIf="((e.type === 'YELLOW_CARD') || (e.type === 'RED_CARD')) && !e.team"
+                [class.yellow]="e.type === 'YELLOW_CARD'"
+                [class.red]="e.type === 'RED_CARD'">
+            {{ e.time | number: '2.0' }}<i>,</i>
+          </span>
+        </ng-container>
+      </td>
+    </tr>
+    <tr class="team-2" [style.background-color]="r.color" [class.odd]="i%2" *ngIf="!filterLive || r.live">
+      <td style="border-top: none">{{ r.teams[1] }}</td>
+      <td class="rtl" style="border-top: none">{{ r.scores[1] }}</td>
+      <td>
+        <ng-container *ngFor="let e of r.events"><span class="event" *ngIf="(e.type === 'GOAL') && e.team">{{ e.time | number: '2.0' }}<i>,</i></span></ng-container>
+      </td>
+      <td>
+        <ng-container *ngFor="let e of r.events">
+          <span class="event" *ngIf="((e.type === 'YELLOW_CARD') || (e.type === 'RED_CARD')) && e.team"
+                [class.yellow]="e.type === 'YELLOW_CARD'"
+                [class.red]="e.type === 'RED_CARD'">
+            {{ e.time | number: '2.0' }}<i>,</i>
+          </span>
+        </ng-container>
+      </td>
+    </tr>
+  </ng-container>
+  </tbody>
+</table>
